@@ -2,10 +2,9 @@
   "name": "com.unity.autolod",
   "version": "1.0.0",
   "displayName": "AutoLOD",
-  "description": "Automatic LOD generation system",
+  "description": "Automatic LOD generation system for Unity.",
   "unity": "6.0.0",
   "author": {
-    "name": "Unity Technologies"
-  },
-  "keywords": ["LOD", "mesh", "decimation", "rendering", "optimization"]
+    "name": "nylaslot-lab"
+  }
 }
