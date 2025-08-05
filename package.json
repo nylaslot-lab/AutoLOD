@@ -1,23 +1,11 @@
 {
   "name": "com.unity.autolod",
+  "version": "1.0.0",
   "displayName": "AutoLOD",
-  "version": "0.0.2",
-  "unity": "2018.4",
-  "description": "Automatic LOD generation",
-  "keywords": [
-    "autolod",
-    "lod",
-    "3d",
-    "mesh",
-    "polygon",
-    "triangle",
-    "simplification",
-    "decimation",
-    "reduction",
-    "optimization"
-  ],
+  "description": "Automatic LOD generation system",
+  "unity": "6.0.0",
   "author": {
-    "name": "Unity"
+    "name": "Unity Technologies"
   },
-  "bugs": "https://github.com/Unity-Technologies/AutoLOD/issues"
+  "keywords": ["LOD", "mesh", "decimation", "rendering", "optimization"]
 }
